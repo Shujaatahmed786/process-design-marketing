@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.num-outline{
+    color: transparent;
+    -webkit-text-stroke:  1px rgb(170, 167, 167);
+}
